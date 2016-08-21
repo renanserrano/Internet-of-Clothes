@@ -1,0 +1,16 @@
+Usuário:
+
+Insere as infos no rfid
+costura o rifd na roupa
+
+Parear a roupa com o arduino que cadastra ela no banco de dados
+Como parear: dois leds, um se acende quando detecta a roupa, quando aperta o botão ele cadastra e a luz fica verde
+
+Quando a roupa for lida pelo leitor, ele checa se ela esta no banco. Se a roupa for identificada, adiciona +1 uso.
+
+//Depois de X dias ele te informa que tal roupa não está sendo usada.
+//insight - usar a estadística pra dizer: se essa roupa parece com a outra, pq vc n esta usando?
+
+1 - Perguntar pro cara pq ele usou raspberry
+2 - Vasculhar ML e Alibaba sobre Rfid lavaveis
+3 - Falar com afonso, sobre as possiblidades e dar o start na compra, fazer a vaquinha como?
