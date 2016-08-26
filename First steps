@@ -1,6 +1,8 @@
 Usuário:
 
 Insere as infos no rfid
+  RFID só cabe código
+  
 costura o rifd na roupa
 
 Parear a roupa com o arduino que cadastra ela no banco de dados
@@ -11,8 +13,10 @@ Quando a roupa for lida pelo leitor, ele checa se ela esta no banco. Se a roupa 
 //Depois de X dias ele te informa que tal roupa não está sendo usada.
 //insight - usar a estadística pra dizer: se essa roupa parece com a outra, pq vc n esta usando?
 
-1 - Perguntar pro cara pq ele usou raspberry
-2 - Vasculhar ML e Alibaba sobre Rfid lavaveis
+
+2 - Vasculhar ML sobre Rfid lavaveis
+  sites de rfid
+  
 3 - Falar com afonso, sobre as possiblidades e dar o start na compra, fazer a vaquinha como?
 
 --
