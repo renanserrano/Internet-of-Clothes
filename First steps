@@ -22,6 +22,11 @@ Quando a roupa for lida pelo leitor, ele checa se ela esta no banco. Se a roupa 
 --
 Por que não deixar a antena dentro do armario e sim no batente de alguma porta de saída (que a pessoa já esteja vestindo a roupa),
 pq a pessoa tira a roupa do armario, nem sempre veste ela e acaba deixando em cima da cadeira.
+--
+Pesquisar sobre isso: Testar o módulo RFID montando um controle de acesso utilizando o Arduino 
+e que verifica o número da tag e libera (ou não), a passagem por uma cancela controlada por um servo motor (microservo 9G) 
+> no caso não seria uma cancela e sim o leitor (https://github.com/miguelbalboa/rfid)  
+biblioteca Servo, já presente na IDE do Arduino + biblioteca MFRC522
 
 ----
 
