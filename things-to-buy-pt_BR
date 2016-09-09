@@ -1,4 +1,14 @@
 RFID TAG:
 Ainda não testado - http://www.brasilrfid.com.br/produto/chip-enxoval-e-lavanderia-copia/40258
 
+1˚ Negociando forma de entrega pra comprar alguns modelos de etiquetas
+1.1 testar se todas as etiquetas funcionam
+1.2 testar formas de encapsulamento
+
+2˚ Manuel vai trazer cabo de cobre pra testarmos a antena.
+2.1 soldar um plug no Rc522 pra testar tamanhos de antenas
+https://eprint.iacr.org/2006/054.pdf 
+
+
+
 
