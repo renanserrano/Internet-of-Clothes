@@ -11,7 +11,7 @@ Como parear: dois leds, um se acende quando detecta a roupa, quando aperta o bot
 Quando a roupa for lida pelo leitor, ele checa se ela esta no banco. Se a roupa for identificada, adiciona +1 uso.
 
 //Depois de X dias ele te informa que tal roupa não está sendo usada.
-//insight - usar a estadística pra dizer: se essa roupa parece com a outra, pq vc n esta usando?
+//insight - usar a estadística pra dizer: se essa roupa parece com a outra, pq vc n esta usando? Qto tempo leva pra roupa voltar pro seu armario
 
 
 2 - Vasculhar ML sobre Rfid lavaveis
