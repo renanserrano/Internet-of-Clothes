@@ -1,5 +1,5 @@
 
-Internet-of-Clothes
+Internet of Clothes
 -------------------
 
 
