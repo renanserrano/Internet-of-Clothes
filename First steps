@@ -26,4 +26,22 @@ pq a pessoa tira a roupa do armario, nem sempre veste ela e acaba deixando em ci
 ----
 
 Cronograma:
-André vai trazer o kit
+Pesquisar etiquetas de rfid, comprar um pack pra desmontar algumas e fazer prototipos, estampas e etc... (isolar)
+Desenhar o ciclo de uso workflow
+Notificação no aplicativo e tirar a foto
+
+
+---
+- Aplica etiqueta na camiseta
+1˚ semana de maneiras de selar o tag e aplicar fácil
+
+- Encosta ela no arduino
+2˚ semana - leu acende o led
+3˚ semana - Parear o celular com o arduino - cadastra item no app, aperta o botão e o arduino escuta o código
+
+
+notifica o mobile
+mobile tira a foto e da um titulo
+Sobe pro banco de dados
+Refletir o objeto da
+
